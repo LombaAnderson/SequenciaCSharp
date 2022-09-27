@@ -4,7 +4,7 @@
 
 
 # Sobre o projeto
-A aplicação desenvolvida seguiu as seguintes diretivas do exercício  descrito abaixo: 
+A aplicação desenvolvida seguiu as seguintes diretivas do exercício descrito a seguir: 
 Para definir uma sequência a partir de um número inteiro o positivo, temos as seguintes regras:
 Se n é par, o próximo valor é n/2
 Se n é ímpar, o próximo valor é 3n + 1
