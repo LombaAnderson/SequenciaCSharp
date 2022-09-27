@@ -3,9 +3,9 @@
     public static void Main()
     {
         System.Console.WriteLine("Digite um número por favor:");
-        int num = int.Parse(System.Console.ReadLine());
+        int num = int.Parse(System.Console.ReadLine()); // Conversão de inteiro para string
         int contador = 0;
-        while (num > 1)
+        while (num > 1) 
         {
 
             contador++;
